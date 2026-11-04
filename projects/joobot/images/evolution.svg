@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1040" height="800" viewBox="0 0 1040 800" role="img" aria-labelledby="title description">
+  <title id="title">JooBot: the main strands across its versions</title>
+  <desc id="description">Chat and stream automation developed into service and storage experiments, Python quizzes using local models, and a React and Discord quiz interface backed by Convex. Minecraft, video detection and speech synthesis are separate experiments.</desc>
+  <rect width="1040" height="800" fill="#11191d"/>
+  <g font-family="monospace" fill="#e9eff0">
+    <text x="48" y="58" font-size="30" font-weight="700">JOOBOT / EVOLUTION</text>
+    <text x="48" y="90" font-size="16" fill="#aab9c1">The main strands across the versions</text>
+    <path d="M77 147v467" stroke="#c18d5f" stroke-width="3"/>
+    <g fill="#c18d5f"><circle cx="77" cy="159" r="10"/><circle cx="77" cy="299" r="10"/><circle cx="77" cy="439" r="10"/><circle cx="77" cy="579" r="10"/></g>
+    <g fill="#1d292f" stroke="#40505a"><rect x="111" y="128" width="879" height="110"/><rect x="111" y="268" width="879" height="110"/><rect x="111" y="408" width="879" height="110"/><rect x="111" y="548" width="879" height="110"/></g>
+    <text x="134" y="162" font-size="21" font-weight="700">01 / CHAT + STREAM CONTROL</text>
+    <text x="134" y="194" font-size="17">Twitch and Discord commands → Spotify and OBS</text>
+    <text x="134" y="220" font-size="15" fill="#aab9c1">Music requests · scenes · camera · AFK · timed replays</text>
+    <text x="134" y="302" font-size="21" font-weight="700">02 / SERVICES + STORAGE</text>
+    <text x="134" y="334" font-size="17">Shared commands, separate apps, TypeScript rewrites</text>
+    <text x="134" y="360" font-size="15" fill="#aab9c1">SQLite · Drizzle · Bun · Elysia · Next.js experiments</text>
+    <text x="134" y="442" font-size="21" font-weight="700">03 / QUIZZES + LOCAL MODELS</text>
+    <text x="134" y="474" font-size="17">Stored trivia → generated distractors → chat questions</text>
+    <text x="134" y="500" font-size="15" fill="#aab9c1">Python · SQLite · Ollama · Twitch Predictions · Astro UI</text>
+    <text x="134" y="582" font-size="21" font-weight="700">04 / QUIZ UI + SHARED DATA</text>
+    <text x="134" y="614" font-size="17">React quiz interface and Discord quiz interactions</text>
+    <text x="134" y="640" font-size="15" fill="#aab9c1">Convex question bank · timers · difficulty · results and streaks</text>
+    <path d="M48 699h942" stroke="#40505a"/>
+    <text x="48" y="735" font-size="17" fill="#c18d5f">EXPERIMENTS ALONGSIDE</text>
+    <text x="48" y="766" font-size="16" fill="#aab9c1">Minecraft bots · video object detection · speech synthesis</text>
+  </g>
+</svg>

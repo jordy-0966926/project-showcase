@@ -1,6 +1,6 @@
 # Project showcase
 
-I'm Jordy. These are some projects I've been working on: coursework applications and a personal quest log for real life.
+I'm Jordy. These are some projects I've been working on, from coursework applications to a quest log and chat automation tools.
 
 Each case study explains the problem, my contribution, how the application works and what I would develop further. The screenshots come from the applications running locally with demo data.
 
@@ -9,6 +9,7 @@ Each case study explains the problem, my contribution, how the application works
 | [Actiontypes](projects/actiontypes/README.md) | A student questionnaire, teacher dashboard and team-grouping prototype | Astro, React, TypeScript, SQLite |
 | [Event Calendar](projects/event-calendar/README.md) | Public event listings and agenda editing | Flask, Jinja2, SQLite, JavaScript |
 | [Quests](projects/quests/README.md) | A map-based quest log with waypoint progress and a public demo | React Router, TypeScript, Convex, Pigeon Maps |
+| [JooBot](projects/joobot/README.md) | Chat and stream automation evolving into interactive quizzes | JavaScript, TypeScript, Python, OBS, React, Convex |
 
 ## About this repository
 
