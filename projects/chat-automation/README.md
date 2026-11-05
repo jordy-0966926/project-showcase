@@ -1,4 +1,4 @@
-# JooBot
+# Chat automation and interactive quizzes
 
 A bot project that grew from chat-controlled music and stream tools into
 interactive quizzes. It spans several JavaScript, TypeScript and Python
@@ -6,9 +6,9 @@ iterations, with different features and structures along the way.
 
 - **Role:** Developer
 - **Status:** Ongoing project with earlier prototypes and rewrites
-- **Try:** [Quiz preview](https://demo.jordy.zip/sd/joobot-quiz/)
+- **Try:** [Quiz preview](https://demo.jordy.zip/sd/interactive-quiz/)
 
-![JooBot's main strands: stream control, service rewrites, local-model quizzes and shared quiz data](images/evolution.svg)
+![The project's main strands: stream control, service rewrites, local-model quizzes and shared quiz data](images/evolution.svg)
 
 ## Chat commands and stream control
 

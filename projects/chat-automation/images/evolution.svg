@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1040" height="800" viewBox="0 0 1040 800" role="img" aria-labelledby="title description">
-  <title id="title">JooBot: the main strands across its versions</title>
+  <title id="title">Chat automation and interactive quizzes: the main strands across its versions</title>
   <desc id="description">Chat and stream automation developed into service and storage experiments, Python quizzes using local models, and a React and Discord quiz interface backed by Convex. Minecraft, video detection and speech synthesis are separate experiments.</desc>
   <rect width="1040" height="800" fill="#11191d"/>
   <g font-family="monospace" fill="#e9eff0">
-    <text x="48" y="58" font-size="30" font-weight="700">JOOBOT / EVOLUTION</text>
+    <text x="48" y="58" font-size="30" font-weight="700">CHAT / QUIZ EVOLUTION</text>
     <text x="48" y="90" font-size="16" fill="#aab9c1">The main strands across the versions</text>
     <path d="M77 147v467" stroke="#c18d5f" stroke-width="3"/>
     <g fill="#c18d5f"><circle cx="77" cy="159" r="10"/><circle cx="77" cy="299" r="10"/><circle cx="77" cy="439" r="10"/><circle cx="77" cy="579" r="10"/></g>
